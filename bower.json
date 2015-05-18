@@ -1,0 +1,26 @@
+{
+  "name": "angular-eha.online-badge",
+  "description": "An online/offline indicator badge",
+  "authors": [
+    "Tom Vincent <git@tlvince.com>"
+  ],
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "homepage": "https://tlvince.com",
+  "keywords": "online,offline,badge",
+  "main": "online-badge.template.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eHealthAfrica/angular-eha.online-badge.git"
+  },
+  "license": "Apache-2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
